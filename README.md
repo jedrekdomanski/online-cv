@@ -1,4 +1,4 @@
-This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
+<!-- This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
 
 
 I have made this into a Jekyll Theme.
@@ -24,4 +24,4 @@ There are 6 color schemes available
 [Watch my video on instlallation](https://www.youtube.com/embed/T2nx6tj-ZH4)
 
 
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com) -->
