@@ -15,7 +15,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Jędrzej Domański
 tagline: Ruby on Rails Developer
-pic: profile_image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile_image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: jedrek.domanski@gmail.com
